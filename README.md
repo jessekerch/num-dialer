@@ -1,5 +1,5 @@
 # DECISIONS
 
-# If we had more time...
 
-Would have... made UI better?
+# Future Work
+Improve UI for improved user experience
